@@ -3,7 +3,8 @@
 """
 Created on Sun Feb 10 01:26:01 2019
 
-@author: roope
+Code based on vprusso's youtube tutorial on twitter scraping
+
 """
 
 # creating tweepy streamer
